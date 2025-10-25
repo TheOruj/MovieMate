@@ -1,0 +1,6 @@
+@MovieMate_HostAddress = http://localhost:5240
+
+GET {{MovieMate_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
