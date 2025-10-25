@@ -14,7 +14,3 @@ It allows users to explore movies, leave reviews and comments, manage favorites,
 - 🔐 **Authentication & Authorization** — Integrated with ASP.NET Identity.  
 - 🧩 **Modular Architecture** — Domain, Application, Infrastructure, and API layers.
 
----
-
-## 🏗️ Project Structure
-
