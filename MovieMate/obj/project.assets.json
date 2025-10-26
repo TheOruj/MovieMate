@@ -4390,7 +4390,8 @@
     "net8.0": [
       "Microsoft.EntityFrameworkCore.Design >= 8.0.21",
       "Service >= 1.0.0",
-      "Swashbuckle.AspNetCore >= 9.0.6"
+      "Swashbuckle.AspNetCore >= 9.0.6",
+      "Swashbuckle.AspNetCore.Swagger >= 9.0.6"
     ]
   },
   "packageFolders": {
@@ -4454,6 +4455,10 @@
             "version": "[8.0.21, )"
           },
           "Swashbuckle.AspNetCore": {
+            "target": "Package",
+            "version": "[9.0.6, )"
+          },
+          "Swashbuckle.AspNetCore.Swagger": {
             "target": "Package",
             "version": "[9.0.6, )"
           }

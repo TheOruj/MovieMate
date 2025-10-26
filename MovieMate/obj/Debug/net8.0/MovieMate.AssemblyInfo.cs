@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MovieMate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e86ad6bf5c2af0e2a2c6ebdac4abd82bba6722e")]
 [assembly: System.Reflection.AssemblyProductAttribute("MovieMate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MovieMate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

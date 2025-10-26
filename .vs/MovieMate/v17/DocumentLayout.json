@@ -1,12 +1,87 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Oruj\\source\\repos\\MovieMate\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AB175D-BA94-49B8-BED6-F4E5CD97FB63}|Domain\\Domain.csproj|c:\\users\\oruj\\source\\repos\\moviemate\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AB175D-BA94-49B8-BED6-F4E5CD97FB63}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAD0DAD-F2A3-442E-BD59-0C9AB92BAF24}|Repository\\Repository.csproj|c:\\users\\oruj\\source\\repos\\moviemate\\repository\\respositories\\watchlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFAD0DAD-F2A3-442E-BD59-0C9AB92BAF24}|Repository\\Repository.csproj|solutionrelative:repository\\respositories\\watchlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAD0DAD-F2A3-442E-BD59-0C9AB92BAF24}|Repository\\Repository.csproj|c:\\users\\oruj\\source\\repos\\moviemate\\repository\\respositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFAD0DAD-F2A3-442E-BD59-0C9AB92BAF24}|Repository\\Repository.csproj|solutionrelative:repository\\respositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAD0DAD-F2A3-442E-BD59-0C9AB92BAF24}|Repository\\Repository.csproj|c:\\users\\oruj\\source\\repos\\moviemate\\repository\\respositories\\interfaces\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFAD0DAD-F2A3-442E-BD59-0C9AB92BAF24}|Repository\\Repository.csproj|solutionrelative:repository\\respositories\\interfaces\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Oruj\\source\\repos\\MovieMate\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Oruj\\source\\repos\\MovieMate\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T14:49:14.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WatchlistRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Oruj\\source\\repos\\MovieMate\\Repository\\Respositories\\WatchlistRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Respositories\\WatchlistRepository.cs",
+              "ToolTip": "C:\\Users\\Oruj\\source\\repos\\MovieMate\\Repository\\Respositories\\WatchlistRepository.cs",
+              "RelativeToolTip": "Repository\\Respositories\\WatchlistRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T14:48:30.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Oruj\\source\\repos\\MovieMate\\Repository\\Respositories\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Respositories\\CommentRepository.cs",
+              "ToolTip": "C:\\Users\\Oruj\\source\\repos\\MovieMate\\Repository\\Respositories\\CommentRepository.cs",
+              "RelativeToolTip": "Repository\\Respositories\\CommentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T14:46:32.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Oruj\\source\\repos\\MovieMate\\Repository\\Respositories\\Interfaces\\ICommentRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Respositories\\Interfaces\\ICommentRepository.cs",
+              "ToolTip": "C:\\Users\\Oruj\\source\\repos\\MovieMate\\Repository\\Respositories\\Interfaces\\ICommentRepository.cs",
+              "RelativeToolTip": "Repository\\Respositories\\Interfaces\\ICommentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T14:46:12.347Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
